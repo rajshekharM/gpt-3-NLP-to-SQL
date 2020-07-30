@@ -1,0 +1,5 @@
+Need to download or run the notebook 
+
+You have to get the OpenAI api code.
+
+Also download and load the gpt.py file in the directory before running the notebook, you will need it as it gets called in the notebook code.
